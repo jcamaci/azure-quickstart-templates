@@ -122,7 +122,7 @@
       "metadata": {
         "description": "Size of SQL OS disk in Gb"
       },
-      "defaultValue": 1000
+      "defaultValue": 128
     },
 
     "sqlLBIPAddress": {
